@@ -1,0 +1,3 @@
+Chemistry,First TR onset candidate [s],Last TR onset candidate [s],Total TR propagation [s],Mean inter-cell TR delay [s],SD inter-cell TR delay [s],Temperature sensors used,Mean cell-associated Tmax [C],Maximum cell-associated Tmax [C],Mean venting Tmax [C],Maximum venting Tmax [C],Surface 100C crossing span [s],Surface 150C crossing span [s],Surface 200C crossing span [s]
+LFP,183.900,2022.100,1838.200,459.550,60.994,5,534.629,605.794,297.861,391.518,1762.061,1864.131,1951.198
+NMC811,156.500,552.300,395.800,98.950,51.779,4,891.538,935.416,900.734,1232.184,228.907,229.960,235.103

@@ -1,0 +1,11 @@
+Chemistry,Cell,TR onset candidate [s],Propagation delay [s],Temperature sensor,Cell-associated Tmax [C],Temperature data quality,Venting sensor,Venting Tmax [C],TR onset status
+LFP,1,183.900,,T1,605.794,AVAILABLE - near sensor damage time,V1,368.777,PRELIMINARY - manual validation pending
+LFP,2,647.900,464.000,T2,520.693,AVAILABLE,V2,169.300,PRELIMINARY - manual validation pending
+LFP,3,1153.900,506.000,T3,518.962,AVAILABLE,V3,260.219,PRELIMINARY - manual validation pending
+LFP,4,1650.000,496.100,T4,496.798,AVAILABLE,V4,391.518,PRELIMINARY - manual validation pending
+LFP,5,2022.100,372.100,T5,530.898,AVAILABLE,V5,299.491,PRELIMINARY - manual validation pending
+NMC811,1,156.500,,T1,852.901,AVAILABLE,V1,718.554,PRELIMINARY - manual validation pending
+NMC811,2,210.300,53.800,T2,935.416,AVAILABLE,V2,940.311,PRELIMINARY - manual validation pending
+NMC811,3,287.600,77.300,T3,906.418,AVAILABLE,V3,623.918,PRELIMINARY - manual validation pending
+NMC811,4,379.300,91.700,T4,871.417,AVAILABLE,V4,1232.184,PRELIMINARY - manual validation pending
+NMC811,5,552.300,173.000,T5,,EXCLUDED - known sensor artifacts,V5,988.702,PRELIMINARY - manual validation pending

@@ -1,0 +1,13 @@
+Chemistry,Sensor,Suspicious jumps,Rapid heating,Rapid cooling
+LFP,T1,0,0,0
+LFP,T2,0,0,0
+LFP,T3,0,0,0
+LFP,T4,1,0,1
+LFP,T5,0,0,0
+LFP,T6,0,0,0
+NMC811,T1,9,9,0
+NMC811,T2,12,11,1
+NMC811,T3,7,7,0
+NMC811,T4,17,15,2
+NMC811,T5,34,20,14
+NMC811,T6,0,0,0

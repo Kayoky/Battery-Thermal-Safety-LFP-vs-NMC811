@@ -1,0 +1,3 @@
+Chemistry,Channels,Median max heating rate [C/s],Highest max heating rate [C/s],Channels reaching 100C,Median first crossing 100C [s],Channels reaching 200C,Median first crossing 200C [s],Channels reaching 300C,Median first crossing 300C [s]
+LFP,89,101.65757575647687,348.2491803296135,89,956.8763002257336,89,1204.8390965147453,74,1410.5759242424242
+NMC811,83,1478.8779411755906,5081.712121209741,83,220.06942665244642,83,287.0125411592791,83,291.74032073395585

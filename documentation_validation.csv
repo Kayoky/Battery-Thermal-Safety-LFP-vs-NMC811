@@ -1,0 +1,10 @@
+Check,Status,Details
+Required CSV inputs,PASS,7 inputs loaded
+Chemistry coverage,PASS,LFP and NMC811 present
+Cell onset chronology,PASS,Five increasing onset candidates per chemistry
+Propagation arithmetic,PASS,Onset differences agree with integrated summary
+MCDA weight sums,PASS,Each scenario sums to one
+MCDA score reconstruction,PASS,Scores match normalized values and weights
+Independent TR onset validation,PENDING,Manual event-by-event review needed
+IR spatial calibration,PENDING,Physical front velocity not claimed
+Full clean-environment reproduction,PENDING,Not performed by documentation generator

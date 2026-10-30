@@ -1,0 +1,11 @@
+Chemistry,Cell,First temperature event [s],Significant voltage drop [s],Matched temperature event [s],Voltage below 0.95 V [s],Voltage below 0.50 V [s],Voltage below 0.10 V [s],Status
+LFP,1,176.70000000000002,184.8,183.9,426.5,428.20000000000005,444.6,Candidate - requires validation
+LFP,2,480.6,650.3000000000001,649.1,883.3000000000001,884.9000000000001,908.5,Candidate - requires validation
+LFP,3,918.0,1155.8,1154.0,1390.9,1392.2,1402.1000000000001,Candidate - requires validation
+LFP,4,1426.6000000000001,1643.7,1646.3000000000002,1860.0,1861.4,1873.2,Candidate - requires validation
+LFP,5,1884.6000000000001,2030.1000000000001,2022.0,2212.6,2214.9,2222.3,Candidate - requires validation
+NMC811,1,152.1,155.60000000000002,156.9,156.9,157.0,158.20000000000002,Candidate - requires validation
+NMC811,2,159.20000000000002,212.10000000000002,211.0,222.10000000000002,222.70000000000002,223.3,Candidate - requires validation
+NMC811,3,215.0,289.3,287.5,297.2,297.2,297.40000000000003,Candidate - requires validation
+NMC811,4,291.6,387.5,379.40000000000003,392.6,392.70000000000005,393.5,Candidate - requires validation
+NMC811,5,551.5,550.3000000000001,551.5,556.4,556.5,556.9,Candidate - requires validation

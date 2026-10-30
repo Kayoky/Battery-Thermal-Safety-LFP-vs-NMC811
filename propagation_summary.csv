@@ -1,0 +1,3 @@
+Chemistry,First TR onset [s],Last TR onset [s],Total propagation time [s],Mean delay [s],Median delay [s],Std delay [s],Number of propagation intervals,Method
+LFP,183.9,2022.0,1838.1,459.525,478.7500000000001,58.286440675912615,4,Refined matched TR onset estimate
+NMC811,156.9,551.5,394.6,98.65,84.20000000000002,51.36727233041156,4,Refined matched TR onset estimate

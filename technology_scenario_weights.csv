@@ -1,0 +1,6 @@
+Criterion,Safety-oriented,Energy-density-oriented
+TR propagation [s],0.35,0.1
+Cell Tmax [C],0.2,0.1
+Venting Tmax [C],0.15,0.1
+Gravimetric energy density [Wh/kg],0.15,0.35
+Volumetric energy density [Wh/L],0.15,0.35

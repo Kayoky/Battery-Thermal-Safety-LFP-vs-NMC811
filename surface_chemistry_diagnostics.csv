@@ -1,0 +1,3 @@
+Chemistry,Channels,Samples per channel,Total invalid samples,Total negative samples,Total rate flags,Global Tmax [C],Hottest channel,Median channel Tmax [C]
+LFP,89,124487,0,0,8639,350.0072,Temperature 17 [°C],314.5017
+NMC811,83,84721,0,0,131386,819.1033,Temperature 54 [°C],644.5496

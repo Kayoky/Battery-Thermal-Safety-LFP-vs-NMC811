@@ -1,0 +1,21 @@
+Scenario,Chemistry,Criterion,Normalized score,Weight,Weighted contribution
+Safety-oriented,LFP,TR propagation [s],1.0,0.35,0.35
+Safety-oriented,LFP,Cell Tmax [C],1.0,0.2,0.2
+Safety-oriented,LFP,Venting Tmax [C],1.0,0.15,0.15
+Safety-oriented,LFP,Gravimetric energy density [Wh/kg],0.6774193548387096,0.15,0.10161290322580645
+Safety-oriented,LFP,Volumetric energy density [Wh/L],0.6344463971880492,0.15,0.09516695957820738
+Safety-oriented,NMC811,TR propagation [s],0.21531933413121532,0.35,0.07536176694592536
+Safety-oriented,NMC811,Cell Tmax [C],0.5996704571201676,0.2,0.11993409142403354
+Safety-oriented,NMC811,Venting Tmax [C],0.33068697306863065,0.15,0.0496030459602946
+Safety-oriented,NMC811,Gravimetric energy density [Wh/kg],1.0,0.15,0.15
+Safety-oriented,NMC811,Volumetric energy density [Wh/L],1.0,0.15,0.15
+Energy-density-oriented,LFP,TR propagation [s],1.0,0.1,0.1
+Energy-density-oriented,LFP,Cell Tmax [C],1.0,0.1,0.1
+Energy-density-oriented,LFP,Venting Tmax [C],1.0,0.1,0.1
+Energy-density-oriented,LFP,Gravimetric energy density [Wh/kg],0.6774193548387096,0.35,0.23709677419354835
+Energy-density-oriented,LFP,Volumetric energy density [Wh/L],0.6344463971880492,0.35,0.2220562390158172
+Energy-density-oriented,NMC811,TR propagation [s],0.21531933413121532,0.1,0.021531933413121533
+Energy-density-oriented,NMC811,Cell Tmax [C],0.5996704571201676,0.1,0.05996704571201677
+Energy-density-oriented,NMC811,Venting Tmax [C],0.33068697306863065,0.1,0.033068697306863064
+Energy-density-oriented,NMC811,Gravimetric energy density [Wh/kg],1.0,0.35,0.35
+Energy-density-oriented,NMC811,Volumetric energy density [Wh/L],1.0,0.35,0.35
