@@ -1,0 +1,42 @@
+# Python virtual environments
+.venv/
+.venv_test/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MATLAB temporary files
+*.asv
+*.autosave
+slprj/
+codegen/
+*.slxc
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup documentation
+README_OLD.md
+FINAL_ENGINEERING_REPORT_OLD.md
+
+# Temporary files
+*.tmp
+*.bak
+~$*
+
+# Files from the published study
+Battery_Thermal_Safety_TUMresults/
