@@ -1,0 +1,11 @@
+Chemistry,Cell,Combined candidate [s],Voltage collapse [s],Difference [s],Status
+LFP,1,176.70000000000002,428.20000000000005,251.50000000000003,Requires visual validation
+LFP,2,647.9000000000001,884.9000000000001,237.0,Requires visual validation
+LFP,3,1147.7,1392.2,244.5,Requires visual validation
+LFP,4,1640.6000000000001,1861.4,220.79999999999995,Requires visual validation
+LFP,5,2022.0,2214.9,192.9000000000001,Requires visual validation
+NMC811,1,152.1,157.0,4.900000000000006,Requires visual validation
+NMC811,2,169.70000000000002,222.70000000000002,53.0,Requires visual validation
+NMC811,3,287.5,297.2,9.699999999999989,Requires visual validation
+NMC811,4,379.5,392.70000000000005,13.200000000000045,Requires visual validation
+NMC811,5,553.3000000000001,556.5,3.199999999999932,Requires visual validation
